@@ -41,27 +41,27 @@ nome = 'Kelly Ferreira'
 
 #Variável bool: valores lógicos (True ou False)
 Estudando = True
-
-print( type(idade) )
-print( type(altura) )
-print( type(nome) )
-print( type(Estudando) )
-
-#Obtendo dados do usuário e salvando em variáveis
-
-linguagem = input('Qual é a linguagem de programação que você está estudando?')
-print('A linguagem que você está estudando é', linguagem)
 ```
 
 Imprimindo variáveis para saber seus tipos:
 
-
-
+```
+print( type(idade) )
+print( type(altura) )
+print( type(nome) )
+print( type(Estudando) )
+```
 
 Como obter dados do usuário e salvá-los em variáveis
 
 É importante chamar a entrada para uma variável criada, conforme abaixo:
 
+```
+#Obtendo dados do usuário e salvando em variáveis
+
+linguagem = input('Qual é a linguagem de programação que você está estudando?')
+print('A linguagem que você está estudando é', linguagem)
+```
 
 
 Neste caso, tudo que o usuário digitar neste input será armazenado na variável ‘linguagem’
