@@ -7,7 +7,11 @@ Comandos básicos do Python:
 print = saída
 input = entrada
 
-
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 
 No caso do Python, para criar uma variável não é preciso descrever de qual tipo de variável se trata, porque o Python possui o chamado “tipagem dinâmica”
