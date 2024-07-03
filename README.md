@@ -8,9 +8,9 @@ print = saída
 input = entrada
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+print('Hello World!')
+print('Seja bem-vindo ao curso de Phyton do code tank')
+input('Qual é a linguagem de programação que você está estudando?')
 ```
 
 
